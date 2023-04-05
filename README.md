@@ -2,7 +2,7 @@
 
 >## Project Description
 
-- Ansible is a agentless configuration management tool used to automate tasks and provide continous delivery. 
+- Ansible is a agentless configuration management tool used to automate tasks and provide continous delivery of applications. 
 - This project involved setting up an EC2 virtual machine used as a jump server to control declared servers and perform tasks with the help of Ansible. 
 >### Project Diagram 
 ![](/PNGs/Project%2011%20Diagram.png)
